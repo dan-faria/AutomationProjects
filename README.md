@@ -30,3 +30,6 @@ This script downloads YouTube videos by providing the URL. It fetches the video 
 - Prompts user to enter a YouTube URL.
 - Displays video title and view count.
 - Downloads the video in the highest resolution.
+
+## Learning Purpose
+All scripts and projects in this repository are created for learning purposes. They are designed to help understand and explore different programming concepts and libraries.
